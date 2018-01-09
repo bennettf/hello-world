@@ -1,2 +1,5 @@
 # hello-world
-project folder
+
+Hello World!
+
+I'm learning to code front end development!
